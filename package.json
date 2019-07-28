@@ -1,0 +1,28 @@
+{
+  "name": "video-at",
+  "version": "1.0.0",
+  "description": "video-at with jest-puppeteer",
+  "main": "jest.config.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "jest-environment-node": "^24.8.0",
+    "jest-puppeteer": "^4.3.0",
+    "puppeteer": "^1.19.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest --runInBand"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yoshihiro4218/video-at.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yoshihiro4218/video-at/issues"
+  },
+  "homepage": "https://github.com/Yoshihiro4218/video-at#readme"
+}
